@@ -7,7 +7,7 @@ import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import About from "./component/About";
 import Error from './component/Error'
 import RestaurentMenu from "./component/RestaurentMenu";
-import Profile from "./component/Profile";
+// import Profile from "./component/Profile";
 import ProfileComponenet from "./component/ProfileComponenet";
 import Shimmer from "./component/Shimmer";
 import UserContext from "./Utils/UserContext";

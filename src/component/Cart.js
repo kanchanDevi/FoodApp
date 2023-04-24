@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import { clearCart } from "../utils/Cartslice";
+import { clearCart } from "../Utils/Cartslice";
 import Food from "./Food";
 
 const Cart = () => {
